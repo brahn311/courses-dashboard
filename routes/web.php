@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/about/laravel', function () {
     return view('welcome');
 });
+Route::get('/', 'HomeController@index');
+Route::get('/dashboard', 'DashboardController@index');
