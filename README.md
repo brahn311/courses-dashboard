@@ -10,9 +10,9 @@ following the [php_03_laravel](https://github.com/brahn311/hello-world/blob/mast
 
 1. Fundamentos
    - [x]	2.	[Instalación de Laravel](https://github.com/brahn311/courses-dashboard/commit/3c2b8fa5acd3896f8c5dc8eac484c00fd5c995c2)
-   - [ ]	3.	Primer route en laravel
-   - [ ]	4.	Cómo funciona Blade
-   - [ ]	5.	Controladores en Laravel
+   - [x]	3.	Primer route en laravel
+   - [x]	4.	Cómo funciona Blade
+   - [x]	5.	Controladores en Laravel
    - [ ]	6.	Request
    - [ ]	7.	Configuración de laravel
 1. Bases de Datos
