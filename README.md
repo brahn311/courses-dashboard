@@ -9,7 +9,7 @@ following the `php_03_laravel` notes from https://github.com/brahn311/hello-worl
    - [x]	1.	Intro y caracteristicas de Laravel
 
 1. Fundamentos
-   - [ ]	2.	Instalación de Laravel
+   - [x]	2.	[Instalación de Laravel](https://github.com/brahn311/courses-dashboard/commit/3c2b8fa5acd3896f8c5dc8eac484c00fd5c995c2)
    - [ ]	3.	Primer route en laravel
    - [ ]	4.	Cómo funciona Blade
    - [ ]	5.	Controladores en Laravel
