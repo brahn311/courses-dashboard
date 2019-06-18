@@ -2,7 +2,7 @@
 Web portal to manager my courses progress
 
 This project is created to perform PHP practices with Laravel Framework
-following the [`php_03_laravel`](https://github.com/brahn311/hello-world/blob/master/courses/php_03_laravel/lessons.md) notes
+following the [php_03_laravel](https://github.com/brahn311/hello-world/blob/master/courses/php_03_laravel/lessons.md) notes
 
 ### Project development
 1. Introducción
